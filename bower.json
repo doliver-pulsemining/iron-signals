@@ -12,16 +12,16 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/PolymerElements/iron-signals.git"
+    "url": "git://github.com/doliver-pulsemining/iron-signals.git"
   },
   "main": "iron-signals.html",
   "license": "http://polymer.github.io/LICENSE.txt",
   "homepage": "https://github.com/PolymerElements/iron-signals/",
   "dependencies": {
-    "polymer": "Polymer/polymer#^1.0.0"
+    "polymer": "Polymer/polymer#1 - 2"
   },
   "devDependencies": {
-    "paper-styles": "PolymerElements/paper-styles#^1.0.2",
+    "paper-styles": "PolymerElements/paper-styles#^1.0.0",
     "iron-component-page": "PolymerElements/iron-component-page#^1.0.0",
     "webcomponentsjs": "webcomponents/webcomponentsjs#^0.7.0",
     "web-component-tester": "^4.0.0"
